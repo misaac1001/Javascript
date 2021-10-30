@@ -9,7 +9,7 @@ console.log("Bienvenido " + blanco + completo);
 
 let dni = prompt ("Ingrese su DNI");  
 
-console.log("Su DNI es: " + blanco + dni)
+console.log("Su DNI es: " + blanco + dni);
 
 alert ("Que comience el juego");
 
